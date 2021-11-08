@@ -81,3 +81,5 @@ So quay: 4; Thoi gian cho trung binh: 697.0
 So quay: 5; Thoi gian cho trung binh: 150.0
 Voi 5 quay hien co, khach phai cho it nhat 150.0 giay moi duoc phuc vu.
 ```
+# Solution
+Xem lời giải tại đây: [thungan.c](thungan.c)
