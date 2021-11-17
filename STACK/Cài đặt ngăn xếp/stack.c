@@ -44,12 +44,4 @@ void them(int x, NganXep *pS){
         pS->DuLieu[pS->Dinh] = x;
     }
 }
-void doiNhiPhan(int n, NganXep *pS){
-    khoitao(pS);
-    int x = n;
-    do {
-        them(x % 2, pS);
-        x /= 2;
-    } while(x > 0);
-}
 

@@ -10,4 +10,3 @@ Các bài thực hành trong phần Cài đặt ngăn xếp
   - [khoitao](stack.c#L32)
   - [hienthi](stack.c#L35)
   - [them](stack.c#L41)
-  - [doiNhiPhan](stack.c#L47)
